@@ -1,5 +1,15 @@
 # Radio Skit
 
+"Radio Skit" was written by:
+
+- Mike Dockter (BOY SCOUT)
+- Jim Hartwig (STORYTIME)
+- Dave Schuh (BASEBALL)
+- Pete Emanuel (COOK SHOW)
+- John Van Dress (GANGSTER)
+
+Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
+
 | Actor | Dialog |
 | ----- | ------ |
 | **BOY SCOUT** | Are you missing something in your life? Do you always find yourself unprepared? Do you like camping hiking, and the great outdoors? If you do, join the Boy Scouts of America.  Scouting today -- it's a lot more than... |
@@ -13,3 +23,16 @@
 | **BOY SCOUT** | ...the Boy Scouts of America.   Just imagine the fun you'll have,swimming, boating, hiking, and at night, sitting around the campfire, only you, the moon, the stars, and ...|
 | **STORYTIME** | ...Little Red Ridinghood," said the Wolf, "What do you have in our basket?"  "Well, Mr. Wolf", said Little Red Ridinghood, "I have... |
 | **BASEBALL** | ...two outs, Brewers on first and second, at the bottom of the fifth and they're down by two runs.   They've got to have a hit from this next batter or their... |
+| **COOK SHOW** | ...meatloaf will be burnt.  So be careful ladies, because burnt meatloaf can cause... |
+| **BASEBALL** | ...a strike out!   And that wil put the Orioles in the lead, six to five in the bottom of the sixth inning here at Memorial Stadium.  Wow! What a change of events.  This game has changed from a dull, typical pitcher's battle to a... |
+| **BOY SCOUT** | ..jamboree at Kettle Moraine State Park. And remember, as the Scout slogan goes, "Be Prepared" to... |
+| **GANGSTER** | ...get your guts blown out if you double-cross me again.  I'l put so many holes in you that you'll look like a screen door. No one fools around with me except... |
+| **BOY SCOUT** | ...the Boy Scouts of America... |
+| **COOK SHOW** | ...and your piping hot peas.  By now, your pie crust should be tender and flaky, just like... |
+| **STORYTIME** | ...Little Red Ridinghood. She was about to be gobbled up by the wicked old wolf.  Suddenly, the door burst open and teh woodsman leaped in and said.. |
+| **GANGSTER** | ...You dirty bugger. I've got you dead to rights now.  Mess with my girl will you.  Well nobody messes with my girl and gets away with it.  The only thing that can save you now is... |
+| **BASEBALL** | ...the Baltimore Orioles... |
+| **COOK SHOW** | ...your crisp apple pie... |
+| ***STORYTIME** | ...Little Red Ridinghood... |
+| **ALL** | ...the Boy Scouts of America.|
+|| BLACKOUT|
