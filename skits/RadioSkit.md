@@ -6,7 +6,7 @@
 - Jim Hartwig (STORYTIME)
 - Dave Schuh (BASEBALL)
 - Pete Emanuel (COOK SHOW)
-- John Van Dress (GANGSTER)
+- John Van Dreese (GANGSTER)
 
 Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 
