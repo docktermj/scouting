@@ -21,7 +21,7 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 | **COOK SHOW**  | ...the meat into the pan.  Now, fry for fifteen minutes or until brown. Ladies, this next step is very crucial to the success of your meatloaf, if you do not do it correctly... |
 | **GANGSTER**   | ...I'll smash your head in and make mashed potatoes out of your face. So don't mess up or I'll send you to...|
 | **BOY SCOUT**  | ...the Boy Scouts of America.   Just imagine the fun you'll have swimming, boating, hiking, and at night, sitting around the campfire, only you, the moon, the stars, and ...|
-| **STORYTIME**  | ...Little Red Ridinghood." said the Wolf, "What do you have in our basket?"  "Well, Mr. Wolf", said Little Red Ridinghood, "I have... |
+| **STORYTIME**  | ...Little Red Ridinghood." said the Wolf, "What do you have in your basket?"  "Well, Mr. Wolf", said Little Red Ridinghood, "I have... |
 | **BASEBALL**   | ...two outs, Brewers on first and second, at the bottom of the fifth and they're down by two runs.   They've got to have a hit from this next batter or their... |
 | **COOK SHOW**  | ...meatloaf will be burnt.  So be careful ladies, because burnt meatloaf can cause... |
 | **BASEBALL**   | ...a strike out!   And that wil put the Brewers in the lead, six to five in the bottom of the sixth inning here at County Stadium.  Wow! What a change of events.  This game has changed from a dull, typical pitcher's battle to an... |
