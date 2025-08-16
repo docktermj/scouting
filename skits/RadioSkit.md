@@ -25,7 +25,7 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 | **BASEBALL**   | ...two outs, Brewers on first and second, at the bottom of the fifth and they're down by two runs.   They've got to have a hit from this next batter or their... |
 | **COOK SHOW**  | ...meatloaf will be burnt.  So be careful ladies, because burnt meatloaf can cause... |
 | **BASEBALL**   | ...a strike out!   And that will put the Brewers in the lead, six to five in the bottom of the sixth inning here at County Stadium.  Wow! What a change of events.  This game has changed from a dull, typical pitcher's battle to an... |
-| **BOY SCOUT**  | ..afternoon of fun and adventure at Camp Tesomas. And remember, as the Scout slogan goes, "Be Prepared" to... |
+| **BOY SCOUT**  | ...afternoon of fun and adventure at Camp Tesomas. And remember, as the Scout slogan goes, "Be Prepared" to... |
 | **GANGSTER**   | ...get your guts blown out if you double-cross me again.  I'l put so many holes in you that you'll look like a screen door. No one fools around with me except... |
 | **BOY SCOUT**  | ...the Boy Scouts of America... |
 | **BASEBALL**   | ...have struck out again, and Oh Boy! is the Giants' manager giving it to the umpire.   I can just imagine him saying... |
