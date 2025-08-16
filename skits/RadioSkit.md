@@ -10,8 +10,8 @@
 
 Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 
-| Actor | Dialog |
-| ----- | ------ |
+| Actor          | Dialog |
+| -------------- | ------ |
 | **BOY SCOUT**  | Are you missing something in your life? Do you always find yourself unprepared? Do you like camping, hiking, and the great outdoors? If you do, join the Boy Scouts of America.  Scouting today -- it's a lot more than... |
 | **BASEBALL**   | ...a beautiful day at Milwaukee County Stadium, where the Brewers are hosting the San Francisco Giants. It looks like it will be a very close battle today as both teams are very strong and are led by two great pitchers, Palmer and Scott. The Giants will be at the plate first and leading off the batting will be... |
 | **COOK SHOW**  | ...meatloaf, scalloped potatoes, peas and we'l top it off with apple pie for dessert.  Okay ladies, get out your notepads and cooking utensils and listen carefully and you will learn how to prepare this scrumptious dish to please that hard-working, hungry husband of yours after a long day's work at... |
@@ -37,6 +37,6 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 | **GANGSTER**   | ...You dirty bugger. I've got you dead to rights now.  Mess with my girl will you.  Well nobody messes with my girl and gets away with it.  The only thing that can save you now is... |
 | **BASEBALL**   | ...the Milwaukee Brewers... |
 | **COOK SHOW**  | ...your crisp apple pie... |
-| ***STORYTIME** | ...Little Red Ridinghood... |
+| **STORYTIME**  | ...Little Red Ridinghood... |
 | **ALL**        | ...the Boy Scouts of America.|
-|| BLACKOUT|
+|                | BLACKOUT |
