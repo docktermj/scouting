@@ -47,6 +47,8 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 | **ALL**        | ...the Boy Scouts of America.|
 |                | BLACKOUT |
 
+- [19770600-Radio-Skit-original.pdf](./RadioSkit/19770600-Radio-Skit-original.pdf)
+
 ### 2025 Tesomas Staff Reunion revival
 
 - Date: 2025-08-23
