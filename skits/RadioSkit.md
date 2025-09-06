@@ -55,7 +55,7 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 - Video:
   - Recorded by Pat Kennedy
     - [1.1G version](https://photos.google.com/share/AF1QipPf7-Y4cLCdf-G40ovcvEL3uya56rUVuyQ8uPB0KVOMQ8tCvvM02iY1sQfdqTRoSw/photo/AF1QipOXsVhhEy6-fjCsKLHdkpjCEU8B3BBDYg8UFn0d?key=dURVQ1RjNVJEaVU0X1p1ckxrN0hWcHRKR0k1MkZ3)
-    - [Recorded by Pat Kennedy, 440M version](http://michael.dockter.com/video/2025-08-23_The_Radio_Skit.mp4)
+    - [440M version](http://michael.dockter.com/video/2025-08-23_The_Radio_Skit.mp4)
 - Introduction
 
     > The year is 1977, camp staff week some 48 years ago.
