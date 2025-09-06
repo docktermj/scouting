@@ -52,7 +52,10 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 - Date: 2025-08-23
 - Place: Camp Tesomas, Grand Council Ring
 - Actors: Michael Dockter, Dave Schuh, Peter Kester, Jim Hartwig, John Van Dreese
-- Video: [Recorded by Pat Kennedy](https://photos.google.com/share/AF1QipPf7-Y4cLCdf-G40ovcvEL3uya56rUVuyQ8uPB0KVOMQ8tCvvM02iY1sQfdqTRoSw/photo/AF1QipOXsVhhEy6-fjCsKLHdkpjCEU8B3BBDYg8UFn0d?key=dURVQ1RjNVJEaVU0X1p1ckxrN0hWcHRKR0k1MkZ3)
+- Video:
+  - [Recorded by Pat Kennedy, 1025MB version](<https://photos.google.com/share/AF1QipPf7-Y4cLCdf-G40ovcvEL3uya56rUVuyQ8uPB0KVOMQ8tCvvM02iY1sQfdqTRoSw/photo/AF1QipOXsVhhEy6-fjCsKLHdkpjCEU8B3BBDYg8UFn0d>?
+    key=dURVQ1RjNVJEaVU0X1p1ckxrN0hWcHRKR0k1MkZ3)
+    - [135MB version](http://michael.dockter.com/video/2025-08-23_The_Radio_Skit.mp4)
 - Introduction
 
     > The year is 1977, camp staff week some 48 years ago.
@@ -64,8 +67,17 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
     >
     > - Mike Dockter, Aquatics 1977.
     > - Dave Schuh, Aquatics 1977 and ceremonies director.
-    > - Pete Emanuel.  (Pause) Sorry, Pete couldn't be with us tonight. However, we are fortunate to have his understudy of 48 years, Pete Kester.
+    > - Pete Emanuel.  (Pause) Sorry, Pete couldn't be with us tonight. However, we are fortunate to have his understudy of 48 years, Pete Kester Aquatics 1979.
     > - Jim Hartwig, Aquatic Director 1977.
     > - John Van Dreese,  Program Director 1977.   Why a Program Director?  The skit calls for 5 people and there were only 4 on the waterfront.
     >
     > We present the original cast of "The Radio Skit".
+
+### Additional performances and references
+
+Thank you for taking the tradition forward!
+
+- Troop 68 Melrose, MN
+  - [A Scoutmaster's Blog](http://www.melrosetroop68.org/blog/?p=1111&cpage=1&unapproved=971929&moderation-hash=79c50da5559648859a1637a72eb7a6a9#comment-971929)
+  - [The Radio Skit, as performed by the Boy Scouts of Melrose Troop 68.](https://www.youtube.com/watch?v=6-QraJAXi3I)
+  - [Radio Airwaves Skit as performed by Troop 68 at the 2002 closing campfire at Many Point Scout Camp.](https://www.youtube.com/watch?v=hz0wdK2WAEE)
