@@ -3,9 +3,9 @@
 "Radio Skit" was written by:
 
 - Mike Dockter (BOY SCOUT)
-- Jim Hartwig (STORYTIME)
 - Dave Schuh (BASEBALL)
 - Pete Emanuel (COOK SHOW)
+- Jim Hartwig (STORYTIME)
 - John Van Dreese (GANGSTER)
 
 1977 Aquatic Staff, Tesomas Scout Camp, Rhinelander WI
