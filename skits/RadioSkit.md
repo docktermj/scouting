@@ -8,7 +8,7 @@
 - Pete Emanuel (COOK SHOW)
 - John Van Dreese (GANGSTER)
 
-Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
+1977 Aquatic Staff, Tesomas Scout Camp, Rhinelander WI
 
 > You are driving down a lonely highway.
 > Just you, your used 1970 AMC Gremlin with the upgraded AM radio with 5 station preset buttons.
@@ -47,7 +47,7 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 | **ALL**        | ...the Boy Scouts of America.|
 |                | BLACKOUT |
 
-- [19770600-Radio-Skit-original.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/docktermj/scouting/main/skits/RadioSkit/19770600-Radio-Skit-original.pdf)
+- Original 1977 manuscript: [19770600-Radio-Skit-original.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/docktermj/scouting/main/skits/RadioSkit/19770600-Radio-Skit-original.pdf)
 
 ### 2025 Tesomas Staff Reunion revival
 
@@ -79,7 +79,7 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 
 ### Additional performances and references
 
-Thank you for taking the tradition forward!
+Thank you for continuing the tradition!
 
 - Troop 68 Melrose, MN
   - [A Scoutmaster's Blog](http://www.melrosetroop68.org/blog/?p=1111&cpage=1&unapproved=971929&moderation-hash=79c50da5559648859a1637a72eb7a6a9#comment-971929)
