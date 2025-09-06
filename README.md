@@ -1,4 +1,3 @@
 # Scouting
 
-- Skits
-  - [RadioSkit](skits/RadioSkit.md)
+- [Skits](skits)
