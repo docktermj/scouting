@@ -58,7 +58,7 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
     > The Aquatics Staff realizes that they don't have a script for opening campfire.
     > So between their scheduled tanning sessions, they craft a skit so simple that they can't screw it up.
     > It's known as "The Radio Skit".
-
+    >
     > Before you are the original Tesomas Cast members from 1977.
     >
     > - Mike Dockter, Aquatics 1977.
