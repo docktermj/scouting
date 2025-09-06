@@ -10,6 +10,12 @@
 
 Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 
+> You are driving down a lonely highway.
+> Just you, your used 1970 AMC Gremlin with the upgraded AM radio with 5 station preset buttons.
+> You are looking for something pleasant to listen to.
+> You manically push the buttons.
+> You might here something like this...
+
 | Actor          | Dialog |
 | -------------- | ------ |
 | **BOY SCOUT**  | Are you missing something in your life? Do you always find yourself unprepared? Do you like camping, hiking, and the great outdoors? If you do, join the Boy Scouts of America.  Scouting today -- it's a lot more than... |
@@ -40,3 +46,25 @@ Aquatic Staff, 1977, Camp Tesomas BSA, Rhinelander WI
 | **STORYTIME**  | ...Little Red Ridinghood... |
 | **ALL**        | ...the Boy Scouts of America.|
 |                | BLACKOUT |
+
+### 2025 Tesomas Staff Reunion
+
+- Date: 2025-08-23
+- Place: Camp Tesomas, Grand Council Ring
+- Actors: Michael Dockter, Dave Schuh, Peter Kester, Jim Hartwig, John Van Dreese
+- Introduction
+
+> The year is 1977, camp staff week some 48 years ago.
+> The Aquatics Staff realizes that they don't have a script for opening campfire.
+> So between their scheduled tanning sessions, they craft a skit so simple that they can't screw it up.
+> It's known as "The Radio Skit".
+
+> Before you are the original Tesomas Cast members from 1977.
+>>
+>> - Mike Dockter, Aquatics 1977.
+>>
+> - Dave Schuh, Aquatics 1977 and ceremonies director.
+> - Pete Emanuel.  (Pause) Sorry, Pete couldn't be with us tonight. However we are fortunate to have his understudy of 48 years, Pete Kester.
+> - Jim Hartwig, Aquatic Director 1977.
+> - John Van Dreese,  Program Director 1977.   Why a Program Director?  The skit calls for 5 people and there were only 4 on the waterfront.
+> We present the original cast of "The Radio Skit".
